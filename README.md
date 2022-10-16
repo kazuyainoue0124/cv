@@ -9,7 +9,7 @@
 | Qiita | [https://qiita.com/KazuyaInoue](https://qiita.com/KazuyaInoue) |
 | Twitter | [https://twitter.com/BeINiPu6Z27Le95](https://twitter.com/BeINiPu6Z27Le95) |
 | 資格 | 英検準一級(高校時代に取得), 簿記3級 |		
-
+| 趣味 | 筋トレ、サウナ |
 
 ## スキル
 ### 言語
