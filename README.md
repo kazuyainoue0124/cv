@@ -4,10 +4,10 @@
 | ---- | ----- |
 | 名前 | 井上和也 |
 | 居住地 | 東京都世田谷区(引っ越しを計画中) |
-| ポートフォリオ(本体) | [https://shikakuchikomi.net/](https://shikakuchikomi.net/) |
-| ポートフォリオ(GitHub) | [https://github.com/kazuyainoue0124/review-for-it-certifications.git](https://github.com/kazuyainoue0124/review-for-it-certifications.git) |
-| Qiita | [https://qiita.com/KazuyaInoue](https://twitter.com/BeINiPu6Z27Le95) |
-| Twitter | [https://twitter.com/BeINiPu6Z27Le95](https://twitter.com/BeINiPu6Z27Le95) |
+| ポートフォリオ(本体) | [https://shikakuchikomi.net/](https://shikakuchikomi.net/) {:target="_blank"}|
+| ポートフォリオ(GitHub) | [https://github.com/kazuyainoue0124/review-for-it-certifications.git](https://github.com/kazuyainoue0124/review-for-it-certifications.git) {:target="_blank"}|
+| Qiita | [https://qiita.com/KazuyaInoue](https://qiita.com/KazuyaInoue) {:target="_blank"}{:target="_blank"}|
+| Twitter | [https://twitter.com/BeINiPu6Z27Le95](https://twitter.com/BeINiPu6Z27Le95) {:target="_blank"}|
 | 資格 | 英検準一級(高校時代に取得), 簿記3級 |		
 
 
