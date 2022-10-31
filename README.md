@@ -4,7 +4,7 @@
 | ---- | ----- |
 | 名前 | 井上和也 |
 | 居住地 | 東京都世田谷区(引っ越しを計画中) |
-| 職業 | SESエンジニア(開発歴1年) |
+| 職業 | SIerエンジニア(開発歴1年) |
 | ポートフォリオ(本体) | [https://shikakuchikomi.net/](https://shikakuchikomi.net/) |
 | ポートフォリオ(GitHub) | [https://github.com/kazuyainoue0124/review-for-it-certifications.git](https://github.com/kazuyainoue0124/review-for-it-certifications.git) |
 | Qiita | [https://qiita.com/KazuyaInoue](https://qiita.com/KazuyaInoue) |
